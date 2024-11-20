@@ -1,5 +1,6 @@
 # 💫 About Me:
 I Feel So Sigma<br>
+![Uploading gojo-satoru-chupaverga.gif…]()
 
 
 ## 🌐 Socials:
