@@ -1,7 +1,7 @@
 # 💫 About Me:
 
+![your_cool_intro](https://github.com/user-attachments/assets/4fffa337-3fa9-47a8-be7d-df80a118b09b)
 
-![Uploading your_cool_intro.gif…]()
 
 I Feel So Sigma<br>
 
@@ -11,7 +11,6 @@ I Feel So Sigma<br>
 
 
 
-https://github.com/user-attachments/assets/c42837b4-7f5b-48e0-b14b-96eaff3b5c29
 
 
 
