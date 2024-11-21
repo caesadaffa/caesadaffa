@@ -1,9 +1,20 @@
 # 💫 WELCOME MEIN COMRADE:
 
-![your_cool_intro](https://github.com/user-attachments/assets/1939ac1d-9132-4795-998a-c9fa73288c3a)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1939ac1d-9132-4795-998a-c9fa73288c3a" alt="your_cool_intro">
+</div>
 
 
-![aris-blue-archive](https://github.com/user-attachments/assets/ff81cdb5-1640-44b1-8c8d-a9e75a0691f7)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ff81cdb5-1640-44b1-8c8d-a9e75a0691f7" alt="arisu-blue-archive" width="300px" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/a61d021a-8023-429c-9dd2-34284609e006" alt="ohmygodtu-abokit" width="300px" style="display: inline-block;">
+</div>
+
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shirayuki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masdafy.on) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caesadafa) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/alamakday) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gedagedi)
+
 
 
 
@@ -29,7 +40,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![d0178776-ea41-4f0c-ba77-4421db315f03_preview_loing](https://github.com/user-attachments/assets/6b6a2317-0b83-47f6-951d-22ba0c9cd3cc)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6bc6fbf4-fc96-415b-a898-e9bc27072ee3" alt="b35689c1-45c4-40b0-8e72-33ec08ef9865_preview_loing" width="400px" style="display: inline-block; margin: 0;">
+  <img src="https://github.com/user-attachments/assets/877d0030-3132-40be-81b7-2470ab47893b" alt="d0178776-ea41-4f0c-ba77-4421db315f03_preview_loing" width="400px" style="display: inline-block; margin: 0;">
+</div>
+
+
 
 
 ---
