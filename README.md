@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![your_cool_intro](https://github.com/user-attachments/assets/4fffa337-3fa9-47a8-be7d-df80a118b09b)
+![your_cool_intro](https://github.com/user-attachments/assets/1939ac1d-9132-4795-998a-c9fa73288c3a)
 
 
 ![aris-blue-archive](https://github.com/user-attachments/assets/ff81cdb5-1640-44b1-8c8d-a9e75a0691f7)
