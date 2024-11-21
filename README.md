@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 WELCOME MEIN COMRADE:
 
 ![your_cool_intro](https://github.com/user-attachments/assets/1939ac1d-9132-4795-998a-c9fa73288c3a)
 
