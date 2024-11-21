@@ -29,6 +29,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![d0178776-ea41-4f0c-ba77-4421db315f03_preview_loing](https://github.com/user-attachments/assets/6b6a2317-0b83-47f6-951d-22ba0c9cd3cc)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=caesadaffa&icon=0&color=0)](https://visitcount.itsvg.in)
 
