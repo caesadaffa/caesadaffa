@@ -1,4 +1,4 @@
-# 💫 WELCOME MEIN COMRADE:
+# 💫 HALLO MEIN COMRADE:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/25c3f5cf-55fe-4256-83d5-8d539a00f2f0" alt="fe873ea6-788d-49e7-b245-3ac8e89063a4_dungeonmeshi2 1" width="2000">
 </div>
